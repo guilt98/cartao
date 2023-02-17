@@ -1,0 +1,21 @@
+body {
+  background-color: hsl(185, 75%, 39%);
+ }
+
+.cartao {
+  background-color: white;
+  position: relative;
+  left: 80vw;
+  bottom: 80vh;
+  top: 50vh;
+}
+
+.cabecalho {
+  background-image: url('./images/bg-pattern-card.svg');
+  height: 80vh;
+}
+
+.victor {
+  position: relative;
+  left: 30vw;
+}
