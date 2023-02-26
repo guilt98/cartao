@@ -4,18 +4,39 @@ body {
 
 .cartao {
   background-color: white;
+  width: 300px;
+  border: 10px;
+  padding: 50px;
   position: relative;
   left: 80vw;
-  bottom: 80vh;
-  top: 50vh;
+  bottom: 100vh;
+  height: 80vh;
+  
 }
 
 .cabecalho {
   background-image: url('./images/bg-pattern-card.svg');
-  height: 80vh;
+  height: 10vh;
+  position: relative;
 }
 
 .victor {
   position: relative;
-  left: 30vw;
+  left: 5vw;
+}
+
+.tabela {
+  width: 70%;
+  position: relative;
+  left: 5vw;
+  top: 40vh;
+}
+
+.tabelacor {
+  color: gray;
+}
+
+.bolha2 {
+  position: relative;
+  left: 10vw;
 }
